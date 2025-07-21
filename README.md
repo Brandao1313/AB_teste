@@ -4,7 +4,7 @@ int main() {
     int matriz[3][3];
     int i, j;
 
-    // Leitura dos valores da matriz
+    Leitura dos valores da matriz
     printf("Digite os valores para a matriz 3x3:\n");
     for(i = 0; i < 3; i++) {
         for(j = 0; j < 3; j++) {
@@ -13,7 +13,7 @@ int main() {
         }
     }
 
-    // Exibição da matriz
+    Exibição da matriz
     printf("\nMatriz 3x3:\n");
     for(i = 0; i < 3; i++) {
         for(j = 0; j < 3; j++) {
